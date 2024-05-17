@@ -2,7 +2,7 @@
   <defs>
     <style>
       .cls-1 { fill: none; }
-      .cls-2 { fill: white; }
+      .cls-2 { fill: rgb(161,138,77) ; }
     </style>
   </defs>
   <line class="cls-1" x2="512"></line>

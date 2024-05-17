@@ -5,9 +5,11 @@
 
 @layer components {
   .bg-picture {
-    background-image: url('./public/minerva_01.png');
-    background-size: cover;
-    background-position: center;
-    
+    width: 100%;
+  height: 100vh; /* Adjust the height as needed */
+  background-image: url('./public/minerva_01.png');
+  background-size: cover;
+  background-position: center;
+  transition: background 0.5s ease;
   }
 }
